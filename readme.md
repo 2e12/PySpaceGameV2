@@ -4,7 +4,7 @@
 A little game I wrote a few years ago where you have to dodge the obstacles.
 
 
-Due to a crappy multi-threading implementation it ** only runs correctly under Ubuntu **.
+Due to a crappy multi-threading implementation it **only runs correctly under Ubuntu**.
 
 ## Play
 
